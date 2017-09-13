@@ -1,5 +1,5 @@
-FROM lsiobase/alpine:3.6
-MAINTAINER Gonzalo Peci <davyjones@linuxserver.io>, sparklyballs
+FROM jeeva420/alpine-base
+MAINTAINER Jeeva Kailasam
 
 # environment variables
 ENV PYTHON_EGG_CACHE="/config/plugins/.python-eggs"
