@@ -7,7 +7,7 @@
 * Plugin System
 * Much more...
 
-[![deluge](https://avatars2.githubusercontent.com/u/6733935?v=3&s=200)][appurl]
+[![deluge](https://avatars2.githubusercontent.com/u/6733935?v=3&s=200)][http://deluge-torrent.org/]
 
 ## Usage
 
